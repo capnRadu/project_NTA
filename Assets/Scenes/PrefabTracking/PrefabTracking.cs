@@ -57,6 +57,10 @@ public class PrefabTracking : MonoBehaviour
 
                     // Add the created prefab to our array
                     _instantiatedPrefabs[imageName] = newPrefab;
+
+                    // Update scale and position
+                    newPrefab.transform.localScale = new Vector3(trackedImage.size.x, 1f, trackedImage.size.y);
+                    newPrefab.transform.localPosition += new Vector3(trackedImage.size.x, 0, 0);
                 }
             }
         }
