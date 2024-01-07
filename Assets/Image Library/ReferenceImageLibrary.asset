@@ -37,3 +37,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: flyer
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5472079970045254606
+      m_GuidHigh: 5957251056999669182
+    m_SerializedTextureGuid:
+      m_GuidLow: 5878486962420406310
+      m_GuidHigh: 14912995190990995816
+    m_Size: {x: 0.37, y: 0.5233381}
+    m_SpecifySize: 1
+    m_Name: flyerContact
+    m_Texture: {fileID: 0}
