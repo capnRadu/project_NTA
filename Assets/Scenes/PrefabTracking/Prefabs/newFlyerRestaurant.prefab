@@ -28,7 +28,7 @@ RectTransform:
   m_GameObject: {fileID: 1556838545907124414}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.033}
-  m_LocalScale: {x: 1.75, y: 1.75, z: 1.75}
+  m_LocalScale: {x: 2.03, y: 2.03, z: 2.03}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 6994326471806018914}
@@ -67,7 +67,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 0cc9deec09da389439a07e920b3e7ff6, type: 3}
+    m_Font: {fileID: 12800000, guid: 0a15e0b8078fb0b468476ea33d6eaa74, type: 3}
     m_FontSize: 48
     m_FontStyle: 0
     m_BestFit: 0
@@ -268,7 +268,7 @@ GameObject:
   - component: {fileID: 5871750571682224358}
   - component: {fileID: 4873980734363405685}
   m_Layer: 0
-  m_Name: flyer
+  m_Name: newFlyerRestaurant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -355,7 +355,7 @@ RectTransform:
   m_GameObject: {fileID: 4328169990406110988}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.32, y: 1.32, z: 1.32}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 2318047566288677159}
@@ -395,14 +395,14 @@ MonoBehaviour:
       m_Calls: []
   m_text: History
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f6c4c168c6fd82d4094e9dafa30f98ef, type: 2}
-  m_sharedMaterial: {fileID: 622318161412892016, guid: f6c4c168c6fd82d4094e9dafa30f98ef, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
+  m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 1278358066
+    rgba: 4281479730
   m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 0}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -710,7 +710,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 0cc9deec09da389439a07e920b3e7ff6, type: 3}
+    m_Font: {fileID: 12800000, guid: 0a15e0b8078fb0b468476ea33d6eaa74, type: 3}
     m_FontSize: 48
     m_FontStyle: 0
     m_BestFit: 0
@@ -1143,7 +1143,7 @@ RectTransform:
   m_GameObject: {fileID: 7785085647432779026}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.32, y: 1.32, z: 1.32}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 28974394187791472}
@@ -1183,7 +1183,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Back
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f6c4c168c6fd82d4094e9dafa30f98ef, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: 622318161412892016, guid: f6c4c168c6fd82d4094e9dafa30f98ef, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1247,6 +1247,6 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
