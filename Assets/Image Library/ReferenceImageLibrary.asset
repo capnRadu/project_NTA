@@ -18,32 +18,52 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5473444735099549548
-      m_GuidHigh: 6781221749778159241
+      m_GuidLow: 4952128229995965679
+      m_GuidHigh: 2318907967125835655
     m_SerializedTextureGuid:
-      m_GuidLow: 7198109202153048637
-      m_GuidHigh: 6569157640674495067
-    m_Size: {x: 0.37, y: 0.52340895}
+      m_GuidLow: 3644699636644401819
+      m_GuidHigh: 10177526013072006808
+    m_Size: {x: 0.38, y: 0.5374823}
     m_SpecifySize: 1
-    m_Name: newFlyerContact
+    m_Name: mainFlyer
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5028223288318986831
-      m_GuidHigh: 17714306521440620189
+      m_GuidLow: 5109389081682013684
+      m_GuidHigh: 651985238244383410
     m_SerializedTextureGuid:
-      m_GuidLow: 3721273254267466326
-      m_GuidHigh: 13339018601487727689
-    m_Size: {x: 0.37, y: 0.52340895}
+      m_GuidLow: 3599657567048528648
+      m_GuidHigh: 12631452820805266586
+    m_Size: {x: 0.32, y: 0.32}
     m_SpecifySize: 1
-    m_Name: newFlyerRestaurant
+    m_Name: architectureSticker
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5583627825871824100
-      m_GuidHigh: 14584720023397138870
+      m_GuidLow: 5310361823089752746
+      m_GuidHigh: 993174159353480104
     m_SerializedTextureGuid:
-      m_GuidLow: 6914362230483128833
-      m_GuidHigh: 5032727111509601403
-    m_Size: {x: 0.37, y: 0.52340895}
+      m_GuidLow: 316454790972624086
+      m_GuidHigh: 10285669410021024171
+    m_Size: {x: 0.32, y: 0.32}
     m_SpecifySize: 1
-    m_Name: newFlyerArt
+    m_Name: appelbergenSticker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4889031137716724357
+      m_GuidHigh: 5849176313394000297
+    m_SerializedTextureGuid:
+      m_GuidLow: 10882072211818612339
+      m_GuidHigh: 2616453282663560584
+    m_Size: {x: 0.32, y: 0.32}
+    m_SpecifySize: 1
+    m_Name: artSticker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5370034721463743845
+      m_GuidHigh: 10896961817978685589
+    m_SerializedTextureGuid:
+      m_GuidLow: 4896817899960038269
+      m_GuidHigh: 18318279086059489577
+    m_Size: {x: 0.32, y: 0.32}
+    m_SpecifySize: 1
+    m_Name: secretSticker
     m_Texture: {fileID: 0}

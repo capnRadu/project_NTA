@@ -5,34 +5,30 @@ using UnityEngine.UI;
 
 public class ButtonScript : MonoBehaviour
 {
-    [SerializeField] private Text generalText;
-    [SerializeField] private Text aboutText;
+    [SerializeField] private ScrollRect aboutScroll;
     [SerializeField] private Button historyButton;
+
+    [SerializeField] private ScrollRect historyScroll;
     [SerializeField] private Button backButton;
 
     public void About(bool open)
     {
         if (open)
         {
-            generalText.gameObject.SetActive(false);
+            aboutScroll.gameObject.SetActive(false);
             historyButton.gameObject.SetActive(false);
 
-            aboutText.gameObject.SetActive(true);
+            historyScroll.gameObject.SetActive(true);
             backButton.gameObject.SetActive(true);
         }
 
         if (!open)
         {
-            generalText.gameObject.SetActive(true);
+            aboutScroll.gameObject.SetActive(true);
             historyButton.gameObject.SetActive(true);
 
-            aboutText.gameObject.SetActive(false);
+            historyScroll.gameObject.SetActive(false);
             backButton.gameObject.SetActive(false);
         }
-    }
-
-    public void OpenURL(string URL)
-    {
-        Application.OpenURL(URL);
     }
 }

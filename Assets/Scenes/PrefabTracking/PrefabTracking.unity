@@ -366,8 +366,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ArPrefabs:
   - {fileID: 2857608866929174880, guid: a5b66688392539b42ac12f70538654ea, type: 3}
-  - {fileID: 2857608866929174880, guid: 61b32d0f661dae34f94063c8bc67709c, type: 3}
-  - {fileID: 2857608866929174880, guid: 992bc37a1f9bf0d4ca361402e13922d2, type: 3}
+  - {fileID: 2857608866929174880, guid: 1326efd9da8df8f4bb2dd45cb0842343, type: 3}
+  - {fileID: 2857608866929174880, guid: b359f883e8d37ab4aaa7f883274dde92, type: 3}
+  - {fileID: 2857608866929174880, guid: 0110837e7fce2ce408d9fa0b9b135219, type: 3}
+  - {fileID: 2857608866929174880, guid: bd588172132ae174c8c15a706bdddc7d, type: 3}
 --- !u!1 &1149219585
 GameObject:
   m_ObjectHideFlags: 0
