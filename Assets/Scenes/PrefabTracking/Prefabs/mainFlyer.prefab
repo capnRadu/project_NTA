@@ -359,10 +359,10 @@ MonoBehaviour:
   m_text: "Greetings, visitor! A unique mission awaits you as Rick, an enthusiast
     from afar, calls on you to explore the secrets of our historic school. Unable
     to physically travel, Rick entrusts you with the task of collecting vital details
-    through QR codes, so that he can start his project of helping the school get
-    recognized and write an article about this place. \nYour mission, if you choose
-    to accept it, is to be Rick's eyes and ears, unlocking the untold stories of
-    our school. Its legacy rests in your hands \u2013 let the quest begin!"
+    through posters, so that he can start his project of helping the school get recognized
+    and write an article about this place. \nYour mission, if you choose to accept
+    it, is to be Rick's eyes and ears, unlocking the untold stories of our school.
+    Its legacy rests in your hands \u2013 let the quest begin!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
