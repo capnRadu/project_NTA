@@ -443,7 +443,7 @@ GameObject:
   - component: {fileID: 5871750571682224358}
   m_Layer: 0
   m_Name: mainFlyer
-  m_TagString: Untagged
+  m_TagString: Main Flyer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

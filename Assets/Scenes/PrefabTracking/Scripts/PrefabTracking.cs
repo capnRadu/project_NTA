@@ -49,7 +49,7 @@ public class PrefabTracking : MonoBehaviour
             foreach (var curPrefab in ArPrefabs)
             {
                 // Check whether this prefab matches the tracked image name, and that
-                // the prefab hasn't already been createds
+                // the prefab hasn't already been created
                 if (string.Compare(curPrefab.name, imageName, StringComparison.OrdinalIgnoreCase) == 0 && !_instantiatedPrefabs.ContainsKey(imageName))
                 {
                     // Instantiate the prefab, parenting it to the ARTrackedImage
