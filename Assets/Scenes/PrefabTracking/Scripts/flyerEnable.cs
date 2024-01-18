@@ -16,14 +16,36 @@ public class flyerEnable : MonoBehaviour
     private ScannedStickers m_ScannedStickers;
     private bool alreadyScanned = false;
 
+    private StickerStatusUI m_StickerStatusUI;
+
     private void OnEnable()
     {
         m_ScannedStickers = FindObjectOfType<ScannedStickers>();
+        m_StickerStatusUI = FindObjectOfType<StickerStatusUI>();
 
-        if (!alreadyScanned)
+        if (this.gameObject.tag != "Main Flyer" && this.gameObject.tag != "Secret Sticker" && !alreadyScanned)
         {
             m_ScannedStickers.scannedStickersCount++;
             alreadyScanned = true;
+        }
+        
+        switch (this.gameObject.tag)
+        {
+            case "Main Flyer":
+                m_StickerStatusUI.isMainUnlocked = true;
+                break;
+            case "Architecture Sticker":
+                m_StickerStatusUI.isArchitectureUnlocked = true;
+                break;
+            case "Appelbergen Sticker":
+                m_StickerStatusUI.isAppelbergenUnlocked = true;
+                break;
+            case "Art Sticker":
+                m_StickerStatusUI.isArtUnlocked = true;
+                break;
+            case "Secret Sticker":
+                m_StickerStatusUI.isSecretUnlocked = true;
+                break;
         }
 
         /*

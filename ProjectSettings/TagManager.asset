@@ -10,6 +10,7 @@ TagManager:
   - Architecture Sticker
   - Art Sticker
   - Secret Sticker
+  - Sticker UI
   layers:
   - Default
   - TransparentFX
