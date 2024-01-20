@@ -44,7 +44,10 @@ public class flyerEnable : MonoBehaviour
                 m_StickerStatusUI.isArtUnlocked = true;
                 break;
             case "Secret Sticker":
-                m_StickerStatusUI.isSecretUnlocked = true;
+                if (m_StickerStatusUI.isArchitectureUnlocked && m_StickerStatusUI.isAppelbergenUnlocked && m_StickerStatusUI.isArtUnlocked)
+                {
+                    m_StickerStatusUI.isSecretUnlocked = true;
+                }
                 break;
         }
 
