@@ -502,8 +502,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 118290176}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.26062828}
-  m_AnchorMax: {x: 1, y: 0.99999976}
+  m_AnchorMin: {x: 0, y: 0.3975904}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -579,8 +579,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.000015258789}
-  m_SizeDelta: {x: 0, y: 273}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 351.5}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &171736316
 MonoBehaviour:
@@ -602,16 +602,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Secret
-
-
-    Amidst nature, we''ve built a village with six independent
-    apartments, fostering a blend of friends, neighbors, and family. Together, we
-    care for this beautiful space, embracing a new way of intergenerational living.
-    With recycled wood facades, rainwater collection, and optimal insulation, our
-    complex is both sustainable and modern. As part of our community initiative,
-    we''re recreating old teaching gardens, featuring herbs, chickens, and a greenhouse,
-    ensuring a flourishing vegetable garden that benefits residents and the restaurant.'
+  m_text: "Secret\n\nWe made a little village in nature with six homes where friends,
+    neighbors, and family live together. We take care of our special village and
+    live in a way where different generations, like kids, parents, and grandparents,
+    all help each other and have fun together.\r\n\r\nOur homes are made from recycled
+    wood, and we collect rainwater to use. The houses are designed to stay warm in
+    winter and cool in summer, so they're good for the environment.\r\n\r\nWe're
+    also working on a cool project where we're growing herbs, having chickens, and
+    building a greenhouse. This way, we can have a fantastic garden with vegetables
+    that everyone in the village and the restaurant can enjoy!\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
@@ -723,7 +722,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 603}
+  m_SizeDelta: {x: 0, y: 690.2}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &216993351
 MonoBehaviour:
@@ -745,32 +744,22 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Architecture
-
-
-    About:
-
-    In February 1948, J.H.M. Wilhelm, the city
-    architect appointed by the Urban Expansion and Housing Department, revolutionized
-    school design. His model, presented to the Groningen School Committee in October
-    1949, eliminated traditional corridors, maximizing floor space by integrating
-    work corners within classrooms. Each unit had its own entrance, promoting quick
-    access and a sense of responsibility. This child-centric design, with larger
-    classrooms (64 sq meters), surpassed Finnish schools of the time. Wilhelm''s
-    innovative approach prioritized ventilation, lighting, and the child''s perspective,
-    challenging conventional educational norms, and establishing him as a visionary
-    far ahead of his time.
-
-
-    History:
-
-    The aftermath of WW2 left many historic
-    buildings destroyed, including educational facilities. Due to wartime neglect
-    and subpar materials, schools suffered extensive damage and served unconventional
-    purposes like horse stables. This prompted the emergence of the " Groningse scholentype",
-    initiated by the Groningen Schools Committee. In 1950, their report, heavily
-    influenced by the Amsterdam School Building Committee, outlined guidelines for
-    new construction, repair, and maintenance of schools.'
+  m_text: "Architecture\n\nAbout:\nIn 1948, city architect J.H.M. Wilhelm came up
+    with a super cool idea for schools. He showed it to the Groningen School Committee
+    in 1949.\r\n\r\nHis idea was to get rid of the usual hallways in schools and
+    make the classrooms bigger by adding special work corners inside. Each classroom
+    had its own door, so kids could get in quickly, and it made them feel responsible.\r\n\r\nWilhelm's
+    design was all about making schools awesome for kids. The classrooms were big
+    (64 square meters), even better than schools in Finland at that time. He cared
+    a lot about fresh air, good lighting, and making things fun for kids. Wilhelm's
+    idea was so different from regular schools, it showed he was way ahead of his
+    time and really smart!\r\n\n\nHistory:\nAfter World War II, many important buildings,
+    including schools, were broken and damaged. Some schools were even used for strange
+    things like keeping horses!\r\n\r\nTo fix this, a group called the Groningen
+    Schools Committee came up with a plan in 1950, the \u201CGroningse scholentype\u201D.
+    They looked at what the Amsterdam School Building Committee did and made rules
+    for building new schools, fixing old ones, and taking care of them.They wanted
+    to make sure schools were good places for kids to learn.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
@@ -1048,8 +1037,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1940942872}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.785643}
-  m_AnchorMax: {x: 1, y: 0.9999999}
+  m_AnchorMin: {x: 0, y: 0.7661137}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -2001,7 +1990,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1136487019}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.28524047
+  m_Size: 0.24920313
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2078,8 +2067,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.000015258789}
-  m_SizeDelta: {x: 0, y: 270.5}
+  m_AnchoredPosition: {x: 0, y: -0.000030517578}
+  m_SizeDelta: {x: 0, y: 332}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &795819916
 MonoBehaviour:
@@ -2101,13 +2090,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Main Flyer\n\nGreetings, visitor! A unique mission awaits you as Rick,
-    an enthusiast from afar, calls on you to explore the secrets of our historic
-    school. Unable to physically travel, Rick entrusts you with the task of collecting
-    vital details through posters, so that he can start his project of helping the
-    school get recognized and write an article about this place. \nYour mission,
-    if you choose to accept it, is to be Rick's eyes and ears, unlocking the untold
-    stories of our school. Its legacy rests in your hands \u2013 let the quest begin!"
+  m_text: "Main Flyer\n\nHey there, friend! Rick, a super curious person, needs your
+    help to discover the cool stories of our old school. Since he can't come here
+    himself, he's asking you to be his detective and gather important information
+    from posters.\r\n\r\nRick wants to share these stories to make our school famous
+    and write an article about it. If you're up for the challenge, you can be Rick's
+    special investigator, finding all the interesting things about our school. \r\n\r\nThe
+    school's amazing history is counting on you \u2013 let's start this exciting
+    adventure!\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
@@ -2879,8 +2869,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1125086188}
   m_HandleRect: {fileID: 1125086187}
   m_Direction: 2
-  m_Value: 0.9999996
-  m_Size: 0.7326006
+  m_Value: 0.9999998
+  m_Size: 0.56899
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3053,8 +3043,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 978127266}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.26739925}
-  m_AnchorMax: {x: 1, y: 0.9999999}
+  m_AnchorMin: {x: 0, y: 0.43101}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -3281,7 +3271,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 871239813}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.7147595}
+  m_AnchorMin: {x: 0, y: 0.7507969}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -3661,8 +3651,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.000030517578}
-  m_SizeDelta: {x: 0, y: 802.4}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 735.4}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1229722725
 MonoBehaviour:
@@ -3684,28 +3674,24 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Appelbergen Area\n\nAbout:\nThe hilly area of the Appelbergen must be
-    one of the most beautiful places in the area. The former military training area
-    is located on the Hondsrug east of the village of Glimmen. It is still a reminder
-    of military use, as this was the place where the troops gathered for field exercises.
-    J.H.M. Wilhelm\u2019s innovative ideas fit in perfectly with Appelbergen\u2019s
-    learning method, which was strongly focused on the individual and in which a
-    separate learning program was drawn up for each student. Everyday, approximately
-    12 children from the city of Groningen were transported by bus to Appelbergen.
-    They were provided with a hearty meal three times per day, and at noon, there
-    was half an hour of mandatory rest in the lounge, specially designed for this
-    function.\n\nHistory:\nThe 2.5-hectare school site was in the Appelbergen nature
-    reserve, close to Glimmen. City architect Wilhelm was asked to provide a design
-    for a school that would accommodate approximately 120 children. The first drawings
-    date back to September 1950. However, due to all kinds of complex procedures,
-    the school was not officially opened until November 1954. Wilhelm supplied two
-    variants; one school building with a contiguous gable roof, and a plan in which
-    the class units were provided with separate shed roofs, as used in the Meppel
-    schools. Although the construction costs were higher, this was ultimately preferred
-    because this design provided daylight on three sides. After some controversies,
-    Wilhelm was given permission to realize his plans in May 1952. The costs of the
-    complex, excluding the building land, were exceptionally high compared to regular
-    schools. "
+  m_text: "Appelbergen Area\n\nAbout:\nThe Appelbergen hilly area is one of the most
+    beautiful places near the village of Glimmen. It used to be a training ground
+    for soldiers, where they practiced field exercises. \r\n\r\nAn architect named
+    J.H.M. Wilhelm had innovative ideas that matched with Appelbergen\u2019s learning
+    method. The school there focused a lot on each student, and they made a special
+    learning plan for each kid. \r\n\r\nEvery day, around 12 kids from the city of
+    Groningen took a bus to Appelbergen. They got three yummy meals a day, and in
+    the middle of the day, they had to take a break in a special lounge just for
+    resting. It was a nice place for learning and having fun!\r\n\n\nHistory:\nThe
+    2.5-hectare school site was in the Appelbergen nature reserve. Wilhelm, who designed
+    buildings, was asked to make a school for about 120 kids. The first drawings
+    were made in September 1950, but the school didn't officially open until November
+    1954 because of some complicated procedures. \r\n\r\nWilhelm had two ideas for
+    the school: one with a connected roof, and another with separate roofs for each
+    classroom. Even though the second one cost more, they liked it because it let
+    in sunlight from three sides.\r\n\r\nAfter some disagreements, Wilhelm got permission
+    to build the school in May 1952. The school ended up being more expensive than
+    regular schools, especially when you don't count the cost of the land.\r "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
@@ -3986,8 +3972,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 141993415}
   m_HandleRect: {fileID: 141993414}
   m_Direction: 2
-  m_Value: 0.9999991
-  m_Size: 0.7393715
+  m_Value: 1
+  m_Size: 0.6024096
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4112,8 +4098,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 406082511}
   m_HandleRect: {fileID: 406082510}
   m_Direction: 2
-  m_Value: 0.9999999
-  m_Size: 0.2143569
+  m_Value: 1
+  m_Size: 0.23388632
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:

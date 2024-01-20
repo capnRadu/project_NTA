@@ -119,7 +119,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: -0.000030517578}
-  m_SizeDelta: {x: 0, y: 300}
+  m_SizeDelta: {x: 0, y: 352}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &1721196986197952520
 CanvasRenderer:
@@ -149,15 +149,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: In February 1948, J.H.M. Wilhelm, the city architect appointed by the Urban
-    Expansion and Housing Department, revolutionized school design. His model, presented
-    to the Groningen School Committee in October 1949, eliminated traditional corridors,
-    maximizing floor space by integrating work corners within classrooms. Each unit
-    had its own entrance, promoting quick access and a sense of responsibility. This
-    child-centric design, with larger classrooms (64 sq meters), surpassed Finnish
-    schools of the time. Wilhelm's innovative approach prioritized ventilation, lighting,
-    and the child's perspective, challenging conventional educational norms, and
-    establishing him as a visionary far ahead of his time.
+  m_text: "In 1948, city architect J.H.M. Wilhelm came up with a super cool idea
+    for schools. He showed it to the Groningen School Committee in 1949.\r\n\r\nHis
+    idea was to get rid of the usual hallways in schools and make the classrooms
+    bigger by adding special work corners inside. Each classroom had its own door,
+    so kids could get in quickly, and it made them feel responsible.\r\n\r\nWilhelm's
+    design was all about making schools awesome for kids. The classrooms were big
+    (64 square meters), even better than schools in Finland at that time. He cared
+    a lot about fresh air, good lighting, and making things fun for kids. Wilhelm's
+    idea was so different from regular schools, it showed he was way ahead of his
+    time and really smart!\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
@@ -531,7 +532,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 809520785099673774}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.2554114}
+  m_AnchorMin: {x: 0, y: 0.29681128}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -728,7 +729,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 5602146317547226973}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.74458855
+  m_Size: 0.70318866
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1366,7 +1367,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 5063744175085795277}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.5733332
+  m_Size: 0.48863623
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2035,8 +2036,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.00002670288}
-  m_SizeDelta: {x: 0, y: 231}
+  m_AnchoredPosition: {x: 0, y: -0.000030517578}
+  m_SizeDelta: {x: 0, y: 244.6}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &8110415377136183893
 CanvasRenderer:
@@ -2066,13 +2067,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The aftermath of WW2 left many historic buildings destroyed, including
-    educational facilities. Due to wartime neglect and subpar materials, schools
-    suffered extensive damage and served unconventional purposes like horse stables.
-    This prompted the emergence of the " Groningse scholentype", initiated by the
-    Groningen Schools Committee. In 1950, their report, heavily influenced by the
-    Amsterdam School Building Committee, outlined guidelines for new construction,
-    repair, and maintenance of schools.
+  m_text: "After World War II, many important buildings, including schools, were
+    broken and damaged. Some schools were even used for strange things like keeping
+    horses!\r\n\nTo fix this, a group called the Groningen Schools Committee came
+    up with a plan in 1950, the \u201CGroningse scholentype\u201D. They looked at
+    what the Amsterdam School Building Committee did and made rules for building
+    new schools, fixing old ones, and taking care of them.They wanted to make sure
+    schools were good places for kids to learn.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}

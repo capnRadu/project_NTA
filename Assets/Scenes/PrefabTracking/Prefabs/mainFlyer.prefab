@@ -196,7 +196,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 2113734001822679369}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.83333313
+  m_Size: 0.7017542
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -410,7 +410,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: -0.000030517578}
-  m_SizeDelta: {x: 0, y: 240}
+  m_SizeDelta: {x: 0, y: 285}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &8801702178188949160
 CanvasRenderer:
@@ -440,13 +440,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Greetings, visitor! A unique mission awaits you as Rick, an enthusiast
-    from afar, calls on you to explore the secrets of our historic school. Unable
-    to physically travel, Rick entrusts you with the task of collecting vital details
-    through posters, so that he can start his project of helping the school get recognized
-    and write an article about this place. \nYour mission, if you choose to accept
-    it, is to be Rick's eyes and ears, unlocking the untold stories of our school.
-    Its legacy rests in your hands \u2013 let the quest begin!"
+  m_text: "Hey there, friend! Rick, a super curious person, needs your help to discover
+    the cool stories of our old school. Since he can't come here himself, he's asking
+    you to be his detective and gather important information from posters.\r\n\r\nRick
+    wants to share these stories to make our school famous and write an article about
+    it. If you're up for the challenge, you can be Rick's special investigator, finding
+    all the interesting things about our school. \r\n\r\nThe school's amazing history
+    is counting on you \u2013 let's start this exciting adventure!\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}

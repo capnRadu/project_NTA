@@ -65,16 +65,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The hilly area of the Appelbergen must be one of the most beautiful places
-    in the area. The former military training area is located on the Hondsrug east
-    of the village of Glimmen. It is still a reminder of military use, as this was
-    the place where the troops gathered for field exercises. J.H.M. Wilhelm\u2019s
-    innovative ideas fit in perfectly with Appelbergen\u2019s learning method, which
-    was strongly focused on the individual and in which a separate learning program
-    was drawn up for each student. Everyday, approximately 12 children from the city
-    of Groningen were transported by bus to Appelbergen. They were provided with
-    a hearty meal three times per day, and at noon, there was half an hour of mandatory
-    rest in the lounge, specially designed for this function. "
+  m_text: "The Appelbergen hilly area is one of the most beautiful places near the
+    village of Glimmen. It used to be a training ground for soldiers, where they
+    practiced field exercises. \r\n\nAn architect named J.H.M. Wilhelm had innovative
+    ideas that matched with Appelbergen\u2019s learning method. The school there
+    focused a lot on each student, and they made a special learning plan for each
+    kid. \r\n\nEvery day, around 12 kids from the city of Groningen took a bus to
+    Appelbergen. They got three yummy meals a day, and in the middle of the day,
+    they had to take a break in a special lounge just for resting. It was a nice
+    place for learning and having fun!\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
@@ -812,7 +811,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 5746128982039461848}
   m_HandleRect: {fileID: 5602146317547226973}
   m_Direction: 2
-  m_Value: 1.0000001
+  m_Value: 1
   m_Size: 0.45215553
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -2036,7 +2035,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.000061035156}
+  m_AnchoredPosition: {x: 0, y: -0.000030517578}
   m_SizeDelta: {x: 0, y: 380.4}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &8110415377136183893
@@ -2067,17 +2066,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The 2.5-hectare school site was in the Appelbergen nature reserve, close
-    to Glimmen. City architect Wilhelm was asked to provide a design for a school
-    that would accommodate approximately 120 children. The first drawings date back
-    to September 1950. However, due to all kinds of complex procedures, the school
-    was not officially opened until November 1954. Wilhelm supplied two variants;
-    one school building with a contiguous gable roof, and a plan in which the class
-    units were provided with separate shed roofs, as used in the Meppel schools.
-    Although the construction costs were higher, this was ultimately preferred because
-    this design provided daylight on three sides. After some controversies, Wilhelm
-    was given permission to realize his plans in May 1952. The costs of the complex,
-    excluding the building land, were exceptionally high compared to regular schools. '
+  m_text: "The 2.5-hectare school site was in the Appelbergen nature reserve. Wilhelm,
+    who designed buildings, was asked to make a school for about 120 kids. The first
+    drawings were made in September 1950, but the school didn't officially open until
+    November 1954 because of some complicated procedures. \r\n\r\nWilhelm had two
+    ideas for the school: one with a connected roof, and another with separate roofs
+    for each classroom. Even though the second one cost more, they liked it because
+    it let in sunlight from three sides.\r\n\r\nAfter some disagreements, Wilhelm
+    got permission to build the school in May 1952. The school ended up being more
+    expensive than regular schools, especially when you don't count the cost of the
+    land.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
