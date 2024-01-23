@@ -149,7 +149,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: info
+  m_text: "Imagine culture as the energy that makes our world exciting and fun! At
+    the Outdoor School, we love showing awesome paintings, sculptures, and art created
+    by amazing artists. We also celebrate great designers from our city, Groningen,
+    known for vibrant designs at big fairs around the world.\r\n\r\nTo make our school
+    even more creative, we invite artists and designers to come live and work with
+    us for a while. This helps them make new and exciting art right here! We call
+    it the 'artists in residence' program, and it's like giving them a special place
+    to try out new ideas and discover cool things. We love being a place where creativity
+    and exploration happen!\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
@@ -158,7 +166,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 0
+    rgba: 4278190080
   m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -523,7 +531,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 809520785099673774}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.73711884}
+  m_AnchorMin: {x: 0, y: 0.7568685}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -687,7 +695,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 5602146317547226973}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.26288113
+  m_Size: 0.24313149
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2028,8 +2036,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.000015258789}
-  m_SizeDelta: {x: 0, y: 380.4}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 411.3}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &8110415377136183893
 CanvasRenderer:
@@ -2059,7 +2067,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: info
+  m_text: "Anno Smith, a talented artist from Groningen, was known for his amazing
+    skill in creating beautiful decorations on buildings, called facade decorations.
+    He was particularly skilled in making eye-catching ceramic reliefs and sculptures.\r\n\r\nAfter
+    World War II, he left his artistic mark on the facades of different places in
+    the city of Groningen, such as schools, apartments, and shops.\r\n\r\nAnno Smith's
+    art is getting noticed more, but there's a problem \u2013 some old buildings
+    with his art are getting torn down. This puts his beautiful creations at risk.
+    \r\n\r\nThe good news is that people now understand how special Anno Smith's
+    ceramic art is. They're working hard to save it by preserving and keeping his
+    artworks safe, saving them from being destroyed along with the buildings.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
   m_sharedMaterial: {fileID: -6894005414085269217, guid: 3d5245f6c21828447b3555b47b367fc7, type: 2}
